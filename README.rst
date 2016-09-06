@@ -153,7 +153,7 @@ And now you can use ev3dev-lang-python_ under `Python 3.x`_.
 .. _ev3dev-lang: https://github.com/ev3dev/ev3dev-lang
 .. _ev3dev-lang-python: https://github.com/rhempel/ev3dev-lang-python
 .. _this document: wrapper-specification_
-.. _wrapper-specification: https://github.com/ev3dev/ev3dev-lang/blob/develop/wrapper-specification.md
+.. _wrapper-specification: https://github.com/ev3dev/ev3dev-lang/blob/fea721d8cb56ae6c111800f92c27f7f33f90d645/docs/spec.rst
 .. _EXPLOR3R: demo-robot_
 .. _demo-robot: http://robotsquare.com/2015/10/06/explor3r-building-instructions/
 .. _demo programs: demo-code_
